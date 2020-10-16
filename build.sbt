@@ -1,4 +1,4 @@
-name := "ask-pattern"
+name := "ask-pattern-bc"
 
 version := "0.1"
 
